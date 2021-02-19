@@ -3,5 +3,6 @@ public inherited sharing class CreatingAccount {
         Account acc = new Account();
         acc.Name = name;
         return acc;
+        //apex class
         }
 }
