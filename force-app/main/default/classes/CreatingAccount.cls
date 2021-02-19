@@ -4,5 +4,5 @@ public inherited sharing class CreatingAccount {
         acc.Name = name;
         return acc;
         }
-        // first comment
+        //Just an account
 }
