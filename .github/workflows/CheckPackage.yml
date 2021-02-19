@@ -1,6 +1,6 @@
 name: Check deploy package
 
-# Controls when the action will run. 
+# Controls when the action will run
 on:
   # Triggers the workflow on pull request event but only for the master branch
   pull_request:
